@@ -1,9 +1,14 @@
+@import url("https://use.typekit.net/kxw0mxk.css");
+
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: alternate-gothic-compressed,sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  background-image: radial-gradient(circle, #605b5c, #535051, #474546, #3b3a3b, #303030);
+  color: white;
 }
 
 a {
